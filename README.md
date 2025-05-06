@@ -12,10 +12,10 @@ First Author: Dr. Madeline H. Meier
 This file contains SAS scripts and R scripts used for the above paper. The file list is below:
 
 SAS Scripts:
-*age 38 masterfile_3.7.25* = This file tests differences between long-term cannabis users vs. lifelong cannabis/tobacco non-users on age-38 CpGs.
-*dose_robustreg_9.20.24_3.25* = This file tests dose-response associations between persistence of regular cannabis use and persistence of tobacco dependence and age-45 methylation.
-*qualgroups robust_9.20.24_3.25* = This file tests differences between qualitative groups.
-*TableS2_9.20.24* = This file creates Table S2 and estimates the correlation between test-retest reliability and effect sizes, reported in the discussion.
+- *age 38 masterfile_3.7.25* = This file tests differences between long-term cannabis users vs. lifelong cannabis/tobacco non-users on age-38 CpGs.
+- *dose_robustreg_9.20.24_3.25* = This file tests dose-response associations between persistence of regular cannabis use and persistence of tobacco dependence and age-45 methylation.
+- *qualgroups robust_9.20.24_3.25* = This file tests differences between qualitative groups.
+- *TableS2_9.20.24* = This file creates Table S2 and estimates the correlation between test-retest reliability and effect sizes, reported in the discussion.
 
 R Scripts: 
 
