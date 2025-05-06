@@ -1,31 +1,36 @@
 # Project README
 
-This is a template README for individual projects going forwards.
+This repository stores the analysis scripts for the paper "DNA methylation profiles of long-term cannabis users in midlife:a comprehensive evaluation of published cannabis-associated methylation markers in a representative cohort".
 
 ## 1) Title of Paper: 
-asdf
+"DNA methylation profiles of long-term cannabis users in midlife:a comprehensive evaluation of published cannabis-associated methylation markers in a representative cohort"
 
 ## 2) Metadata: 
-asdf
+First Author: Dr. Madeline H. Meier
 
 ## 3) Summary and Contents: 
-asdf
+This file contains SAS scripts and R scripts used for the above paper. The file list is below:
 
-## 4) File List: 
-asdf
+SAS Scripts:
+*age 38 masterfile_3.7.25* = This file tests differences between long-term cannabis users vs. lifelong cannabis/tobacco non-users on age-38 CpGs.
+*dose_robustreg_9.20.24_3.25* = This file tests dose-response associations between persistence of regular cannabis use and persistence of tobacco dependence and age-45 methylation.
+*qualgroups robust_9.20.24_3.25* = This file tests differences between qualitative groups.
+*TableS2_9.20.24* = This file creates Table S2 and estimates the correlation between test-retest reliability and effect sizes, reported in the discussion.
 
-## 5) Usage Instructions: 
+R Scripts: 
+
+## 4) Usage Instructions: 
 ### a) Software Requirements
-asdf
+SAS, R
 
 ### b) Setup Instructions
-asdf
+None
 
 ### c) Usage Guide
-asdf
+None
 
-## 6) How To Obtain Data: 
-asdf
+## 5) How To Obtain Data: 
+To request Dunedin data used in this paper, please visit "https://moffittcaspi.trinity.duke.edu/research-topics/dunedin".
 
-## 7) Referencing: 
+## 6) Referencing: 
 asdf
