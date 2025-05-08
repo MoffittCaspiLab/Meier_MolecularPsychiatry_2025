@@ -19,7 +19,7 @@ SAS Scripts:
 
 R Scripts: 
 - *ExpressionMethylationCorrelationsMeier_etal.R* = This file contains code to create cannabis-related DNA methylation CpG-gene expression correlation matrices.
-- *Circus_plots_FigureS3_Meier_etal.R* = this file contains code to create the circus plots in Figure S3.
+- *Circos_plots_FigureS3_Meier_etal.R* = this file contains code to create the circus plots in Figure S3.
 
 ## 4) Usage Instructions: 
 ### a) Software Requirements
